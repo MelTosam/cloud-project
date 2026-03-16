@@ -1,0 +1,15 @@
+﻿# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# AWS keys
+*.pem
+*.key
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
